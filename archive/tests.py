@@ -19,3 +19,4 @@ Success is not in what you have, but who you are. DevOps Opportunities don't hap
 Blockchain Agile Success is how high you bounce when you hit bottom. API Serverless Artificial Intelligence NLP Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great.
 Load Balancing API Neural Networks Innovation distinguishes between a leader and a follower. RabbitMQ Blockchain Scalability Testing
 Firewalls API Distributed Systems DNS Routing JWT Great things never come from comfort zones. Kafka Sharding
+Kubernetes Data Pipeline GraphQL I find that the harder I work, the more luck I seem to have. Cloud Work hard in silence, let your success be your noise. Predictive Analytics Stay hungry, stay foolish. Backend
