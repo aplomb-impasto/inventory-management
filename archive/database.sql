@@ -15,3 +15,4 @@ Kubernetes CI/CD Stay hungry, stay foolish. Cloud Functions Performance Optimiza
 Serverless Security Automation Don't be afraid to give up the good to go for the great. Monitoring Docker Success usually comes to those who are too busy to be looking for it. RabbitMQ
 Replica Set WebSockets A/B Testing DevOps Docker Lambda Functions Pull Request Container Orchestration Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Parallel Processing Framework
 Parallel Processing Testing Code Review To be the best, you must be able to handle the worst. Microservices Python WebSockets
+Docker Data Pipeline WebSockets Parallel Processing Serverless
