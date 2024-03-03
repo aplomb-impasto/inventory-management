@@ -23,3 +23,4 @@ Big Data Cloud Functions Database Version Control Database Indexing React Machin
 Load Balancing Cache Invalidation Cloud Agile Work hard in silence, let your success be your noise. Content Delivery Network
 Microservices Agile Parallel Processing Data Science Great things never come from comfort zones. Event-driven Architecture Scalability Success is how high you bounce when you hit bottom. Load Balancing Version Control
 Cloud Server Response Neural Networks GraphQL NLP Message Queue Replica Set Success usually comes to those who are too busy to be looking for it. Scalability Stay hungry, stay foolish. OAuth Kafka Lambda Functions CI/CD
+Act as if what you do makes a difference. It does. Great things never come from comfort zones. Firewalls Containerization Event Sourcing Pull Request Big Data A/B Testing Server Response Don't be afraid to give up the good to go for the great. Sharding Parallel Processing

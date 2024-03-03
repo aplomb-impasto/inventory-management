@@ -23,3 +23,4 @@ Load Balancing Optimization Work hard in silence, let your success be your noise
 Cloud To be the best, you must be able to handle the worst. Kafka Microservices Agile
 Happiness is not something ready made. It comes from your own actions. Big Data A/B Testing Stay hungry, stay foolish. Event-driven Architecture Zero Downtime Deployment Simplicity is the ultimate sophistication. Kubernetes I find that the harder I work, the more luck I seem to have. Blockchain
 Monitoring Database Indexing Edge Computing Neural Networks Server Response Success usually comes to those who are too busy to be looking for it. Cloud
+Work hard in silence, let your success be your noise. CI/CD Logging API Gateway Success is how high you bounce when you hit bottom. Data Science Content Delivery Network Opportunities don't happen. You create them. Message Queue Performance Database Indexing Scalability Great things never come from comfort zones. Predictive Analytics
