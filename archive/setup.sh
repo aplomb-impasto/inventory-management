@@ -29,3 +29,4 @@ Big Data A/B Testing Act as if what you do makes a difference. It does. NLP If y
 Monitoring Docker CI/CD NLP Event Sourcing
 Stay hungry, stay foolish. Database Work hard in silence, let your success be your noise. Do what you love and the money will follow. DevOps Blockchain React If you can dream it, you can do it. Logging Testing Kubernetes
 API Gateway Event Sourcing Database Indexing WebSockets Code Review Logging Great things never come from comfort zones. Kafka Success is how high you bounce when you hit bottom. Latency Optimization Simplicity is the ultimate sophistication. RabbitMQ Work hard in silence, let your success be your noise. Machine Learning Version Control
+Database Artificial Intelligence Performance The only way to do great work is to love what you do. Firewalls Data Science Scalability Difficult roads often lead to beautiful destinations.
