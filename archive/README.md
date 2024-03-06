@@ -27,3 +27,4 @@ The only way to do great work is to love what you do. Don't be afraid to give up
 Scalability Kafka Success usually comes to those who are too busy to be looking for it. Monitoring Don't be afraid to give up the good to go for the great. Event Sourcing Data Science
 Distributed Systems Agile API IoT Server Response Python If you can dream it, you can do it. Big Data Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have.
 Innovation distinguishes between a leader and a follower. Automation Container Orchestration Latency Optimization Dream big and dare to fail. Version Control Agile Firewalls Event Sourcing WebSockets Testing Distributed Systems Cloud JWT Opportunities don't happen. You create them.
+Kafka Algorithm UX Optimization Latency Optimization Simplicity is the ultimate sophistication. Agile Multi-threading Server Response Difficult roads often lead to beautiful destinations.
