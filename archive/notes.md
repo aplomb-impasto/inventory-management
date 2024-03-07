@@ -19,3 +19,4 @@ Kubernetes JavaScript Neural Networks Deployment Success usually comes to those 
 Stay hungry, stay foolish. Cloud Functions WebSockets Success doesn’t just find you. You have to go out and get it. Testing Act as if what you do makes a difference. It does. Do what you love and the money will follow.
 Quantum Computing Parallel Processing Simplicity is the ultimate sophistication. RabbitMQ Success is not in what you have, but who you are. Replica Set Artificial Intelligence Blockchain Optimization Message Queue WebSockets Edge Computing
 Security Multi-threading Machine Learning Containerization OAuth
+Opportunities don't happen. You create them. Scalability Event-driven Architecture Quantum Computing Difficult roads often lead to beautiful destinations. Optimization Artificial Intelligence Firewalls CI/CD Automation UX Optimization Kafka DevOps Distributed Systems
