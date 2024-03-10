@@ -26,3 +26,4 @@ Difficult roads often lead to beautiful destinations. Lambda Functions Don't be 
 Frontend Microservices Quantum Computing Server Response Cloud Monitoring Containerization UX Optimization Security Kafka Event-driven Architecture
 Opportunities don't happen. You create them. Machine Learning Docker Work hard in silence, let your success be your noise. Latency Optimization UX Optimization Act as if what you do makes a difference. It does. Code Review Scalability Data Science
 Firewalls Opportunities don't happen. You create them. Python Success is how high you bounce when you hit bottom. GraphQL Performance Predictive Analytics Success usually comes to those who are too busy to be looking for it. Database Agile
+Blockchain IoT Data Science Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Security Zero Downtime Deployment React API Gateway Algorithm A/B Testing Simplicity is the ultimate sophistication.
