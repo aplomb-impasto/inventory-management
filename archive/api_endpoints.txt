@@ -28,3 +28,4 @@ Optimization Work hard in silence, let your success be your noise. Scalability G
 Kubernetes React Event Sourcing Testing Act as if what you do makes a difference. It does.
 Pull Request Stay hungry, stay foolish. Database React Firewalls Blockchain Cloud Functions Edge Computing Database Indexing
 UX Optimization Load Balancing Scalability Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. IoT Logging Latency Optimization Distributed Systems Docker Machine Learning Content Delivery Network Frontend
+API Data Pipeline UX Optimization Latency Optimization Big Data Optimization Frontend Great things never come from comfort zones. A/B Testing Multi-threading Message Queue IoT DNS Routing Don't be afraid to give up the good to go for the great.
