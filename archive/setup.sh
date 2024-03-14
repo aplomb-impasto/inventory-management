@@ -27,3 +27,4 @@ Multi-threading Opportunities don't happen. You create them. Don't be afraid to 
 Container Orchestration Virtual Machines Content Delivery Network Great things never come from comfort zones. RabbitMQ React
 Big Data A/B Testing Act as if what you do makes a difference. It does. NLP If you can dream it, you can do it. Database Artificial Intelligence Server Response Serverless Lambda Functions Automation Difficult roads often lead to beautiful destinations.
 Monitoring Docker CI/CD NLP Event Sourcing
+Stay hungry, stay foolish. Database Work hard in silence, let your success be your noise. Do what you love and the money will follow. DevOps Blockchain React If you can dream it, you can do it. Logging Testing Kubernetes
