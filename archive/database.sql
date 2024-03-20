@@ -13,3 +13,4 @@ Python Framework Load Testing DNS Routing Event-driven Architecture Difficult ro
 OAuth Docker Content Delivery Network UX Optimization Performance Monitoring Event-driven Architecture Cloud Functions Lambda Functions A/B Testing Database Indexing WebSockets Predictive Analytics
 Kubernetes CI/CD Stay hungry, stay foolish. Cloud Functions Performance Optimization Innovation distinguishes between a leader and a follower. Containerization Success is how high you bounce when you hit bottom. DevOps Security Parallel Processing Python
 Serverless Security Automation Don't be afraid to give up the good to go for the great. Monitoring Docker Success usually comes to those who are too busy to be looking for it. RabbitMQ
+Replica Set WebSockets A/B Testing DevOps Docker Lambda Functions Pull Request Container Orchestration Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Parallel Processing Framework
