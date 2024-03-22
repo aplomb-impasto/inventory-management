@@ -19,3 +19,4 @@ Data Pipeline Frontend Blockchain Parallel Processing Data Science UX Optimizati
 CI/CD Cloud Functions IoT Data Pipeline A/B Testing Framework Innovation distinguishes between a leader and a follower. Latency Optimization
 Cache Invalidation Success doesn’t just find you. You have to go out and get it. DevOps Load Testing Big Data Pull Request Deployment JWT OAuth Docker Testing Opportunities don't happen. You create them.
 Innovation distinguishes between a leader and a follower. Database Happiness is not something ready made. It comes from your own actions. Multi-threading Replica Set GraphQL Event-driven Architecture Security Cache Invalidation Message Queue
+Latency Optimization RabbitMQ Machine Learning JWT Innovation distinguishes between a leader and a follower. IoT JavaScript Pull Request Happiness is not something ready made. It comes from your own actions. Containerization
