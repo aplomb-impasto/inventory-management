@@ -12,3 +12,4 @@ CI/CD Big Data Do what you love and the money will follow. Replica Set WebSocket
 Python Framework Load Testing DNS Routing Event-driven Architecture Difficult roads often lead to beautiful destinations. Firewalls Parallel Processing Simplicity is the ultimate sophistication. Cloud Functions Kubernetes Zero Downtime Deployment JWT Cloud
 OAuth Docker Content Delivery Network UX Optimization Performance Monitoring Event-driven Architecture Cloud Functions Lambda Functions A/B Testing Database Indexing WebSockets Predictive Analytics
 Kubernetes CI/CD Stay hungry, stay foolish. Cloud Functions Performance Optimization Innovation distinguishes between a leader and a follower. Containerization Success is how high you bounce when you hit bottom. DevOps Security Parallel Processing Python
+Serverless Security Automation Don't be afraid to give up the good to go for the great. Monitoring Docker Success usually comes to those who are too busy to be looking for it. RabbitMQ
