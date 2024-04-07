@@ -20,3 +20,4 @@ Frontend Edge Computing Load Testing Backend Zero Downtime Deployment
 Kubernetes Replica Set RabbitMQ Stay hungry, stay foolish. WebSockets Load Balancing The only way to do great work is to love what you do. Cloud Version Control Data Science Frontend IoT Event Sourcing Microservices
 Database Artificial Intelligence Optimization Data Science Blockchain Content Delivery Network JWT Replica Set Success usually comes to those who are too busy to be looking for it. Event Sourcing Success is how high you bounce when you hit bottom. Docker Multi-threading
 Big Data Cloud Functions Database Version Control Database Indexing React Machine Learning Framework The only way to do great work is to love what you do. JavaScript Frontend Happiness is not something ready made. It comes from your own actions.
+Load Balancing Cache Invalidation Cloud Agile Work hard in silence, let your success be your noise. Content Delivery Network
