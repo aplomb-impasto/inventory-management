@@ -26,3 +26,4 @@ Pull Request Backend Predictive Analytics Big Data Work hard in silence, let you
 Algorithm Firewalls DevOps Kafka Parallel Processing Server Response OAuth Data Science Monitoring WebSockets Sharding Load Balancing Latency Optimization Don't be afraid to give up the good to go for the great. Microservices
 Opportunities don't happen. You create them. UX Optimization RabbitMQ Automation Success is how high you bounce when you hit bottom. Load Testing Security To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. Event Sourcing Lambda Functions Sharding Agile
 JWT Scalability Event Sourcing Distributed Systems React Dream big and dare to fail. Testing Kubernetes Opportunities don't happen. You create them. Blockchain
+Big Data Content Delivery Network Deployment Scalability Data Pipeline DevOps Database Indexing JavaScript Testing Database
