@@ -18,3 +18,4 @@ Algorithm If you can dream it, you can do it. Frontend Backend Testing Replica S
 Event-driven Architecture Version Control Database Zero Downtime Deployment Database Indexing React If you can dream it, you can do it. WebSockets Opportunities don't happen. You create them. Predictive Analytics
 Frontend Edge Computing Load Testing Backend Zero Downtime Deployment
 Kubernetes Replica Set RabbitMQ Stay hungry, stay foolish. WebSockets Load Balancing The only way to do great work is to love what you do. Cloud Version Control Data Science Frontend IoT Event Sourcing Microservices
+Database Artificial Intelligence Optimization Data Science Blockchain Content Delivery Network JWT Replica Set Success usually comes to those who are too busy to be looking for it. Event Sourcing Success is how high you bounce when you hit bottom. Docker Multi-threading
