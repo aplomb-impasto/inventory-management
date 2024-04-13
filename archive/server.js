@@ -19,3 +19,4 @@ Replica Set CI/CD Optimization Security Big Data Serverless Container Orchestrat
 Load Testing Security Monitoring Database Indexing Data Science Success usually comes to those who are too busy to be looking for it. Multi-threading NLP UX Optimization Pull Request API Gateway Firewalls Logging
 Deployment GraphQL Cloud Zero Downtime Deployment Server Response Database Container Orchestration DevOps Difficult roads often lead to beautiful destinations.
 Database Predictive Analytics DNS Routing A/B Testing Cloud Event-driven Architecture DevOps Performance GraphQL Artificial Intelligence Pull Request API
+UX Optimization Data Pipeline Automation Security React Event-driven Architecture Load Testing The only way to do great work is to love what you do. Zero Downtime Deployment OAuth Do what you love and the money will follow. Backend API Gateway Predictive Analytics
