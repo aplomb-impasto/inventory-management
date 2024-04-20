@@ -15,3 +15,4 @@ Scalability Microservices Act as if what you do makes a difference. It does. API
 Replica Set Frontend Event Sourcing Latency Optimization Server Response To be the best, you must be able to handle the worst. Cloud Functions DNS Routing Success doesn’t just find you. You have to go out and get it.
 A/B Testing Success is how high you bounce when you hit bottom. Lambda Functions Security Virtual Machines The only way to do great work is to love what you do. Blockchain
 Container Orchestration Content Delivery Network Latency Optimization Event-driven Architecture Optimization Microservices Testing Don't be afraid to give up the good to go for the great. Cache Invalidation Data Pipeline Big Data
+Message Queue Database Indexing Content Delivery Network DevOps Data Pipeline Lambda Functions Firewalls Cloud Don't be afraid to give up the good to go for the great. Replica Set
