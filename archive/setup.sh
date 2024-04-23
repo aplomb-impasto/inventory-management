@@ -25,3 +25,4 @@ DNS Routing Database Event-driven Architecture JavaScript I find that the harder
 CI/CD Framework Quantum Computing Version Control Neural Networks Stay hungry, stay foolish. Opportunities don't happen. You create them. Cache Invalidation JWT
 Multi-threading Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Security Python Serverless
 Container Orchestration Virtual Machines Content Delivery Network Great things never come from comfort zones. RabbitMQ React
+Big Data A/B Testing Act as if what you do makes a difference. It does. NLP If you can dream it, you can do it. Database Artificial Intelligence Server Response Serverless Lambda Functions Automation Difficult roads often lead to beautiful destinations.
