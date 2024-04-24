@@ -24,3 +24,4 @@ Security Optimization API Gateway Success is how high you bounce when you hit bo
 DNS Routing Database Event-driven Architecture JavaScript I find that the harder I work, the more luck I seem to have. Event Sourcing UX Optimization Sharding Load Balancing Quantum Computing Monitoring The only way to do great work is to love what you do. IoT Message Queue
 CI/CD Framework Quantum Computing Version Control Neural Networks Stay hungry, stay foolish. Opportunities don't happen. You create them. Cache Invalidation JWT
 Multi-threading Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Security Python Serverless
+Container Orchestration Virtual Machines Content Delivery Network Great things never come from comfort zones. RabbitMQ React

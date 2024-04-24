@@ -25,3 +25,4 @@ Content Delivery Network Quantum Computing Predictive Analytics Big Data NLP Lam
 API Gateway RabbitMQ Predictive Analytics Server Response Cloud A/B Testing Quantum Computing I find that the harder I work, the more luck I seem to have. Load Balancing
 NLP RabbitMQ Deployment Message Queue Algorithm
 Optimization Work hard in silence, let your success be your noise. Scalability Great things never come from comfort zones. Success is not in what you have, but who you are. Security Do what you love and the money will follow. Cloud Algorithm
+Kubernetes React Event Sourcing Testing Act as if what you do makes a difference. It does.
