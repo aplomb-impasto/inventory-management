@@ -23,3 +23,4 @@ Difficult roads often lead to beautiful destinations. Success doesn’t just find 
 Cache Invalidation Great things never come from comfort zones. Cloud Artificial Intelligence Success usually comes to those who are too busy to be looking for it. DNS Routing Backend Database
 Edge Computing Big Data If you can dream it, you can do it. NLP Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great.
 Framework Neural Networks Happiness is not something ready made. It comes from your own actions. Cloud Functions Success doesn’t just find you. You have to go out and get it. Automation Blockchain Do what you love and the money will follow. Distributed Systems Security Database Sharding
+The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Monitoring Scalability Edge Computing OAuth IoT Zero Downtime Deployment
