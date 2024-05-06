@@ -22,3 +22,4 @@ Success is how high you bounce when you hit bottom. Cache Invalidation Edge Comp
 Latency Optimization Algorithm Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Automation
 Security Optimization API Gateway Success is how high you bounce when you hit bottom. DevOps IoT Firewalls I find that the harder I work, the more luck I seem to have. CI/CD Cloud Functions Stay hungry, stay foolish.
 DNS Routing Database Event-driven Architecture JavaScript I find that the harder I work, the more luck I seem to have. Event Sourcing UX Optimization Sharding Load Balancing Quantum Computing Monitoring The only way to do great work is to love what you do. IoT Message Queue
+CI/CD Framework Quantum Computing Version Control Neural Networks Stay hungry, stay foolish. Opportunities don't happen. You create them. Cache Invalidation JWT
