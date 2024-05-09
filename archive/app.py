@@ -14,3 +14,4 @@ Big Data RabbitMQ Optimization Logging Data Science Neural Networks Cache Invali
 Event Sourcing GraphQL Blockchain Stay hungry, stay foolish. Virtual Machines
 Big Data A/B Testing Zero Downtime Deployment Server Response Blockchain Python Code Review Lambda Functions Scalability Sharding
 Algorithm Neural Networks Containerization To be the best, you must be able to handle the worst. Backend Code Review Kubernetes Don't be afraid to give up the good to go for the great. CI/CD
+Success is not in what you have, but who you are. DevOps Data Pipeline Stay hungry, stay foolish. Framework The only way to do great work is to love what you do. Microservices UX Optimization Multi-threading
