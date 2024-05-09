@@ -13,3 +13,4 @@ Microservices API Quantum Computing Content Delivery Network Security JavaScript
 Big Data RabbitMQ Optimization Logging Data Science Neural Networks Cache Invalidation Scalability Framework Don't be afraid to give up the good to go for the great. Docker JavaScript DNS Routing
 Event Sourcing GraphQL Blockchain Stay hungry, stay foolish. Virtual Machines
 Big Data A/B Testing Zero Downtime Deployment Server Response Blockchain Python Code Review Lambda Functions Scalability Sharding
+Algorithm Neural Networks Containerization To be the best, you must be able to handle the worst. Backend Code Review Kubernetes Don't be afraid to give up the good to go for the great. CI/CD

@@ -23,3 +23,4 @@ Cloud Functions Success usually comes to those who are too busy to be looking fo
 Data Pipeline Frontend JWT Message Queue Replica Set I find that the harder I work, the more luck I seem to have. Algorithm Blockchain Act as if what you do makes a difference. It does. Container Orchestration To be the best, you must be able to handle the worst. React
 Content Delivery Network Quantum Computing Predictive Analytics Big Data NLP Lambda Functions
 API Gateway RabbitMQ Predictive Analytics Server Response Cloud A/B Testing Quantum Computing I find that the harder I work, the more luck I seem to have. Load Balancing
+NLP RabbitMQ Deployment Message Queue Algorithm
