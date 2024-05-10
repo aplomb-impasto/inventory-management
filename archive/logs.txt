@@ -13,3 +13,4 @@ Database Indexing The only way to do great work is to love what you do. Performa
 API Gateway Backend Python WebSockets Automation Quantum Computing GraphQL Difficult roads often lead to beautiful destinations. Parallel Processing IoT Firewalls Agile DevOps
 Scalability Microservices Act as if what you do makes a difference. It does. API Content Delivery Network Container Orchestration Frontend Testing Sharding UX Optimization
 Replica Set Frontend Event Sourcing Latency Optimization Server Response To be the best, you must be able to handle the worst. Cloud Functions DNS Routing Success doesn’t just find you. You have to go out and get it.
+A/B Testing Success is how high you bounce when you hit bottom. Lambda Functions Security Virtual Machines The only way to do great work is to love what you do. Blockchain
