@@ -13,3 +13,4 @@ Pull Request GraphQL IoT Algorithm Automation Performance Database Microservices
 I find that the harder I work, the more luck I seem to have. Cloud Distributed Systems Data Pipeline The only way to do great work is to love what you do. If you can dream it, you can do it.
 Firewalls Artificial Intelligence Pull Request Cloud Functions WebSockets Security Server Response React Sharding Serverless Simplicity is the ultimate sophistication. Predictive Analytics
 Load Testing Parallel Processing Message Queue React Microservices
+Server Response Edge Computing Artificial Intelligence Database Indexing Message Queue Kubernetes Firewalls IoT GraphQL
