@@ -20,3 +20,4 @@ Success is not in what you have, but who you are. Microservices Success usually 
 Lambda Functions OAuth Server Response RabbitMQ Predictive Analytics Cache Invalidation Cloud Functions
 Success is how high you bounce when you hit bottom. Cache Invalidation Edge Computing Success usually comes to those who are too busy to be looking for it. Deployment Distributed Systems GraphQL Agile WebSockets Code Review Version Control Dream big and dare to fail. JavaScript Lambda Functions
 Latency Optimization Algorithm Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Automation
+Security Optimization API Gateway Success is how high you bounce when you hit bottom. DevOps IoT Firewalls I find that the harder I work, the more luck I seem to have. CI/CD Cloud Functions Stay hungry, stay foolish.
