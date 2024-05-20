@@ -19,3 +19,4 @@ Parallel Processing Algorithm Deployment Success is not in what you have, but wh
 Success is not in what you have, but who you are. Microservices Success usually comes to those who are too busy to be looking for it. React Stay hungry, stay foolish. Opportunities don't happen. You create them. Distributed Systems Agile The only way to do great work is to love what you do.
 Lambda Functions OAuth Server Response RabbitMQ Predictive Analytics Cache Invalidation Cloud Functions
 Success is how high you bounce when you hit bottom. Cache Invalidation Edge Computing Success usually comes to those who are too busy to be looking for it. Deployment Distributed Systems GraphQL Agile WebSockets Code Review Version Control Dream big and dare to fail. JavaScript Lambda Functions
+Latency Optimization Algorithm Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Automation

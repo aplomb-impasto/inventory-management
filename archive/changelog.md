@@ -17,3 +17,4 @@ Algorithm Message Queue Success is how high you bounce when you hit bottom. Repl
 Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. IoT Automation Scalability Load Balancing Code Review Data Science Lambda Functions Big Data
 OAuth JavaScript DevOps Scalability Act as if what you do makes a difference. It does. Data Science Performance Firewalls Serverless Algorithm Work hard in silence, let your success be your noise. GraphQL
 Backend Database Indexing Cloud Functions Do what you love and the money will follow. Cloud Agile Neural Networks Blockchain Success doesn’t just find you. You have to go out and get it. Frontend
+Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. RabbitMQ API Gateway Kafka Big Data Optimization Backend JWT Python Algorithm DevOps CI/CD Message Queue Load Balancing
