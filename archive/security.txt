@@ -16,3 +16,4 @@ Pull Request Database DevOps Dream big and dare to fail. Containerization Big Da
 Happiness is not something ready made. It comes from your own actions. Performance Database Indexing Sharding Automation JavaScript Cache Invalidation Success usually comes to those who are too busy to be looking for it. Distributed Systems Algorithm
 Kafka Data Pipeline Predictive Analytics Testing CI/CD Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Backend WebSockets Big Data Monitoring Microservices
 Data Pipeline Frontend Blockchain Parallel Processing Data Science UX Optimization
+CI/CD Cloud Functions IoT Data Pipeline A/B Testing Framework Innovation distinguishes between a leader and a follower. Latency Optimization
