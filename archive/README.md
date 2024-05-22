@@ -20,3 +20,4 @@ NLP RabbitMQ DevOps Testing Sharding Framework API Gateway
 Cloud DNS Routing Agile Quantum Computing Difficult roads often lead to beautiful destinations. Database Framework
 JavaScript CI/CD Cloud Functions Load Testing Testing Containerization A/B Testing Logging Performance
 Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. API Sharding Parallel Processing The only way to do great work is to love what you do. Event Sourcing Microservices Innovation distinguishes between a leader and a follower. Data Science Do what you love and the money will follow. Success is not in what you have, but who you are. Server Response GraphQL JWT
+Cache Invalidation Great things never come from comfort zones. Cloud Artificial Intelligence Success usually comes to those who are too busy to be looking for it. DNS Routing Backend Database
