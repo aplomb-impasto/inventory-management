@@ -14,3 +14,4 @@ Cache Invalidation Version Control Big Data Success is not in what you have, but
 Logging React Virtual Machines OAuth WebSockets Success is how high you bounce when you hit bottom.
 Python Performance Containerization Cloud IoT Server Response Data Pipeline
 Blockchain Kafka Python Cloud Act as if what you do makes a difference. It does. Neural Networks Replica Set
+Backend Work hard in silence, let your success be your noise. Event Sourcing If you can dream it, you can do it. Automation Act as if what you do makes a difference. It does. Kafka Happiness is not something ready made. It comes from your own actions. Data Science API Gateway
