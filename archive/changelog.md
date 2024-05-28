@@ -15,3 +15,4 @@ Act as if what you do makes a difference. It does. React To be the best, you mus
 Edge Computing Scalability OAuth Great things never come from comfort zones. Microservices Artificial Intelligence Cloud
 Algorithm Message Queue Success is how high you bounce when you hit bottom. Replica Set OAuth Kubernetes Frontend API Gateway JWT Simplicity is the ultimate sophistication. Microservices
 Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. IoT Automation Scalability Load Balancing Code Review Data Science Lambda Functions Big Data
+OAuth JavaScript DevOps Scalability Act as if what you do makes a difference. It does. Data Science Performance Firewalls Serverless Algorithm Work hard in silence, let your success be your noise. GraphQL
