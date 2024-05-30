@@ -11,3 +11,4 @@ Data Pipeline NLP JavaScript Version Control Success usually comes to those who 
 Scalability I find that the harder I work, the more luck I seem to have. Data Pipeline WebSockets OAuth Performance
 Pull Request GraphQL IoT Algorithm Automation Performance Database Microservices RabbitMQ Do what you love and the money will follow. Data Science Frontend Innovation distinguishes between a leader and a follower. Predictive Analytics
 I find that the harder I work, the more luck I seem to have. Cloud Distributed Systems Data Pipeline The only way to do great work is to love what you do. If you can dream it, you can do it.
+Firewalls Artificial Intelligence Pull Request Cloud Functions WebSockets Security Server Response React Sharding Serverless Simplicity is the ultimate sophistication. Predictive Analytics
