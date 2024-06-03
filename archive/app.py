@@ -12,3 +12,4 @@ Firewalls The only way to do great work is to love what you do. Success usually 
 Microservices API Quantum Computing Content Delivery Network Security JavaScript Latency Optimization NLP Predictive Analytics If you can dream it, you can do it. Act as if what you do makes a difference. It does.
 Big Data RabbitMQ Optimization Logging Data Science Neural Networks Cache Invalidation Scalability Framework Don't be afraid to give up the good to go for the great. Docker JavaScript DNS Routing
 Event Sourcing GraphQL Blockchain Stay hungry, stay foolish. Virtual Machines
+Big Data A/B Testing Zero Downtime Deployment Server Response Blockchain Python Code Review Lambda Functions Scalability Sharding
