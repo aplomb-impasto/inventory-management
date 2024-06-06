@@ -13,3 +13,4 @@ Lambda Functions Microservices Success is how high you bounce when you hit botto
 Replica Set Stay hungry, stay foolish. Neural Networks RabbitMQ Cloud Lambda Functions JWT Edge Computing Opportunities don't happen. You create them. Firewalls NLP Distributed Systems
 Act as if what you do makes a difference. It does. React To be the best, you must be able to handle the worst. Database Indexing Distributed Systems Event-driven Architecture Opportunities don't happen. You create them. Data Pipeline Latency Optimization Container Orchestration Automation Don't be afraid to give up the good to go for the great. Great things never come from comfort zones.
 Edge Computing Scalability OAuth Great things never come from comfort zones. Microservices Artificial Intelligence Cloud
+Algorithm Message Queue Success is how high you bounce when you hit bottom. Replica Set OAuth Kubernetes Frontend API Gateway JWT Simplicity is the ultimate sophistication. Microservices
