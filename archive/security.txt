@@ -15,3 +15,4 @@ RabbitMQ Python Big Data Microservices Innovation distinguishes between a leader
 Pull Request Database DevOps Dream big and dare to fail. Containerization Big Data Data Pipeline Distributed Systems Act as if what you do makes a difference. It does. Cloud Cloud Functions Message Queue
 Happiness is not something ready made. It comes from your own actions. Performance Database Indexing Sharding Automation JavaScript Cache Invalidation Success usually comes to those who are too busy to be looking for it. Distributed Systems Algorithm
 Kafka Data Pipeline Predictive Analytics Testing CI/CD Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Backend WebSockets Big Data Monitoring Microservices
+Data Pipeline Frontend Blockchain Parallel Processing Data Science UX Optimization
