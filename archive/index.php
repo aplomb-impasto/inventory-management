@@ -15,3 +15,4 @@ Event-driven Architecture RabbitMQ React Dream big and dare to fail. Containeriz
 Edge Computing Monitoring WebSockets UX Optimization Deployment Quantum Computing Act as if what you do makes a difference. It does. Zero Downtime Deployment
 Virtual Machines Neural Networks Stay hungry, stay foolish. Opportunities don't happen. You create them. Serverless Performance React Great things never come from comfort zones. OAuth Server Response Cloud Functions
 Optimization Predictive Analytics Lambda Functions Scalability API UX Optimization Containerization
+Act as if what you do makes a difference. It does. Firewalls Zero Downtime Deployment JavaScript Logging WebSockets Lambda Functions Success is not in what you have, but who you are.
