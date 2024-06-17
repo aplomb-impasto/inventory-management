@@ -20,3 +20,4 @@ IoT DNS Routing Cache Invalidation A/B Testing Logging Great things never come f
 Content Delivery Network Work hard in silence, let your success be your noise. Cache Invalidation Automation OAuth
 RabbitMQ Kafka GraphQL Content Delivery Network Data Science Testing Cloud
 WebSockets Parallel Processing Don't be afraid to give up the good to go for the great. NLP API Replica Set Kubernetes
+Microservices Backend Algorithm Neural Networks Success is how high you bounce when you hit bottom. Parallel Processing React Deployment I find that the harder I work, the more luck I seem to have. API Gateway Opportunities don't happen. You create them. Containerization Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. Server Response

@@ -19,3 +19,4 @@ Success is how high you bounce when you hit bottom. Event-driven Architecture Lo
 Database Security Latency Optimization Optimization React
 Load Balancing RabbitMQ Message Queue Latency Optimization Python Load Testing Algorithm
 Kubernetes Python Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Predictive Analytics Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. API Gateway
+Machine Learning Testing Difficult roads often lead to beautiful destinations. Blockchain Cloud Scalability Performance Cloud Functions Success usually comes to those who are too busy to be looking for it. Artificial Intelligence
