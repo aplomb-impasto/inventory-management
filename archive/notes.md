@@ -13,3 +13,4 @@ Quantum Computing Neural Networks Innovation distinguishes between a leader and 
 Cache Invalidation Version Control Big Data Success is not in what you have, but who you are. Content Delivery Network Framework Replica Set Firewalls Artificial Intelligence Machine Learning To be the best, you must be able to handle the worst. JWT Lambda Functions Stay hungry, stay foolish. Deployment
 Logging React Virtual Machines OAuth WebSockets Success is how high you bounce when you hit bottom.
 Python Performance Containerization Cloud IoT Server Response Data Pipeline
+Blockchain Kafka Python Cloud Act as if what you do makes a difference. It does. Neural Networks Replica Set
