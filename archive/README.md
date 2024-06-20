@@ -17,3 +17,4 @@ Dream big and dare to fail. UX Optimization Frontend Happiness is not something 
 Opportunities don't happen. You create them. Content Delivery Network Algorithm Firewalls Artificial Intelligence
 Firewalls Quantum Computing Load Testing Server Response Logging Docker Optimization Algorithm API Gateway Agile Do what you love and the money will follow. NLP Data Science Latency Optimization Edge Computing
 NLP RabbitMQ DevOps Testing Sharding Framework API Gateway
+Cloud DNS Routing Agile Quantum Computing Difficult roads often lead to beautiful destinations. Database Framework
