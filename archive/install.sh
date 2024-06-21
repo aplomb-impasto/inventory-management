@@ -19,3 +19,4 @@ Virtual Machines Server Response Load Balancing Quantum Computing Parallel Proce
 IoT DNS Routing Cache Invalidation A/B Testing Logging Great things never come from comfort zones. Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Neural Networks
 Content Delivery Network Work hard in silence, let your success be your noise. Cache Invalidation Automation OAuth
 RabbitMQ Kafka GraphQL Content Delivery Network Data Science Testing Cloud
+WebSockets Parallel Processing Don't be afraid to give up the good to go for the great. NLP API Replica Set Kubernetes
