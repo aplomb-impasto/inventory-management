@@ -16,3 +16,4 @@ Distributed Systems Deployment Microservices If you can dream it, you can do it.
 Dream big and dare to fail. UX Optimization Frontend Happiness is not something ready made. It comes from your own actions. Serverless Server Response Distributed Systems Edge Computing Docker Stay hungry, stay foolish. Data Pipeline
 Opportunities don't happen. You create them. Content Delivery Network Algorithm Firewalls Artificial Intelligence
 Firewalls Quantum Computing Load Testing Server Response Logging Docker Optimization Algorithm API Gateway Agile Do what you love and the money will follow. NLP Data Science Latency Optimization Edge Computing
+NLP RabbitMQ DevOps Testing Sharding Framework API Gateway
