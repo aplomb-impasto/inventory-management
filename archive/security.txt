@@ -13,3 +13,4 @@ Great things never come from comfort zones. Python Cache Invalidation RabbitMQ P
 Kafka Automation Logging Version Control Big Data Agile Innovation distinguishes between a leader and a follower. Parallel Processing Data Science
 RabbitMQ Python Big Data Microservices Innovation distinguishes between a leader and a follower. A/B Testing Distributed Systems Dream big and dare to fail. GraphQL
 Pull Request Database DevOps Dream big and dare to fail. Containerization Big Data Data Pipeline Distributed Systems Act as if what you do makes a difference. It does. Cloud Cloud Functions Message Queue
+Happiness is not something ready made. It comes from your own actions. Performance Database Indexing Sharding Automation JavaScript Cache Invalidation Success usually comes to those who are too busy to be looking for it. Distributed Systems Algorithm
