@@ -13,3 +13,4 @@ Load Testing Security Opportunities don't happen. You create them. Edge Computin
 Act as if what you do makes a difference. It does. Distributed Systems Zero Downtime Deployment Framework API Gateway Dream big and dare to fail. Optimization Edge Computing WebSockets
 Event-driven Architecture RabbitMQ React Dream big and dare to fail. Containerization Serverless Success usually comes to those who are too busy to be looking for it. Big Data Server Response To be the best, you must be able to handle the worst. Blockchain Load Testing
 Edge Computing Monitoring WebSockets UX Optimization Deployment Quantum Computing Act as if what you do makes a difference. It does. Zero Downtime Deployment
+Virtual Machines Neural Networks Stay hungry, stay foolish. Opportunities don't happen. You create them. Serverless Performance React Great things never come from comfort zones. OAuth Server Response Cloud Functions
