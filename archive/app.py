@@ -11,3 +11,4 @@ Firewalls Serverless Code Review JavaScript CI/CD Content Delivery Network To be
 Firewalls The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Containerization Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. RabbitMQ Frontend Docker Quantum Computing Blockchain Sharding Version Control Algorithm
 Microservices API Quantum Computing Content Delivery Network Security JavaScript Latency Optimization NLP Predictive Analytics If you can dream it, you can do it. Act as if what you do makes a difference. It does.
 Big Data RabbitMQ Optimization Logging Data Science Neural Networks Cache Invalidation Scalability Framework Don't be afraid to give up the good to go for the great. Docker JavaScript DNS Routing
+Event Sourcing GraphQL Blockchain Stay hungry, stay foolish. Virtual Machines
