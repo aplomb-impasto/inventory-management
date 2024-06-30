@@ -13,3 +13,4 @@ Performance GraphQL Cloud Do what you love and the money will follow. CI/CD Zero
 Load Testing I find that the harder I work, the more luck I seem to have. Code Review RabbitMQ Replica Set Data Pipeline Containerization Zero Downtime Deployment Success is not in what you have, but who you are. Lambda Functions
 API Quantum Computing Version Control Content Delivery Network JWT Deployment CI/CD Zero Downtime Deployment
 A/B Testing Event Sourcing Docker Don't be afraid to give up the good to go for the great. Cache Invalidation DNS Routing Do what you love and the money will follow. Edge Computing Backend Logging Parallel Processing Distributed Systems Data Science Pull Request Container Orchestration
+Simplicity is the ultimate sophistication. IoT Great things never come from comfort zones. JavaScript Deployment Frontend Server Response Success doesn’t just find you. You have to go out and get it.
