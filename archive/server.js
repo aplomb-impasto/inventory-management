@@ -15,3 +15,4 @@ Deployment Load Balancing Success is not in what you have, but who you are. Mult
 The only way to do great work is to love what you do. Load Balancing I find that the harder I work, the more luck I seem to have. Cloud Functions Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it.
 Load Testing Deployment Quantum Computing Pull Request Containerization Database Indexing
 Deployment Success is how high you bounce when you hit bottom. Agile Load Balancing Monitoring Data Pipeline Blockchain
+Replica Set CI/CD Optimization Security Big Data Serverless Container Orchestration Load Testing Algorithm
