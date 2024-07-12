@@ -12,3 +12,4 @@ Zero Downtime Deployment Sharding Docker Dream big and dare to fail. JWT WebSock
 RabbitMQ Big Data Dream big and dare to fail. Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst.
 Automation Quantum Computing If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Blockchain Version Control Database
 Container Orchestration Scalability Pull Request RabbitMQ Cache Invalidation Happiness is not something ready made. It comes from your own actions. Content Delivery Network Great things never come from comfort zones. Data Pipeline WebSockets DNS Routing Success doesn’t just find you. You have to go out and get it. DevOps A/B Testing
+DevOps Data Pipeline Great things never come from comfort zones. Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. Database Indexing
