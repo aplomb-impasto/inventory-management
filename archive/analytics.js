@@ -7,3 +7,4 @@ Do what you love and the money will follow. GraphQL Event-driven Architecture Se
 Dream big and dare to fail. Code Review WebSockets Database Indexing Innovation distinguishes between a leader and a follower. Big Data Act as if what you do makes a difference. It does. Logging
 Event-driven Architecture Event Sourcing Microservices Success is how high you bounce when you hit bottom. Cloud Functions Framework A/B Testing UX Optimization Logging Kubernetes Load Testing Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Edge Computing DevOps
 RabbitMQ Virtual Machines Frontend Algorithm Event-driven Architecture GraphQL Happiness is not something ready made. It comes from your own actions. DevOps Success doesn’t just find you. You have to go out and get it. Message Queue Kafka
+Sharding WebSockets Monitoring UX Optimization Cloud Dream big and dare to fail. Microservices
