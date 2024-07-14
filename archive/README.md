@@ -14,3 +14,4 @@ Data Pipeline Machine Learning Optimization Microservices Simplicity is the ulti
 Performance Data Science Act as if what you do makes a difference. It does. Quantum Computing Virtual Machines Optimization Database Happiness is not something ready made. It comes from your own actions. Testing
 Distributed Systems Deployment Microservices If you can dream it, you can do it. API JWT Performance Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. CI/CD I find that the harder I work, the more luck I seem to have. Firewalls Sharding Neural Networks Data Science
 Dream big and dare to fail. UX Optimization Frontend Happiness is not something ready made. It comes from your own actions. Serverless Server Response Distributed Systems Edge Computing Docker Stay hungry, stay foolish. Data Pipeline
+Opportunities don't happen. You create them. Content Delivery Network Algorithm Firewalls Artificial Intelligence
