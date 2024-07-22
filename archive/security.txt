@@ -12,3 +12,4 @@ Difficult roads often lead to beautiful destinations. NLP DNS Routing Algorithm 
 Great things never come from comfort zones. Python Cache Invalidation RabbitMQ Predictive Analytics Dream big and dare to fail. CI/CD
 Kafka Automation Logging Version Control Big Data Agile Innovation distinguishes between a leader and a follower. Parallel Processing Data Science
 RabbitMQ Python Big Data Microservices Innovation distinguishes between a leader and a follower. A/B Testing Distributed Systems Dream big and dare to fail. GraphQL
+Pull Request Database DevOps Dream big and dare to fail. Containerization Big Data Data Pipeline Distributed Systems Act as if what you do makes a difference. It does. Cloud Cloud Functions Message Queue

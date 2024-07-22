@@ -9,3 +9,4 @@ NLP Code Review Security The only way to do great work is to love what you do. B
 Simplicity is the ultimate sophistication. Pull Request RabbitMQ Latency Optimization Machine Learning Docker Cache Invalidation
 Server Response Performance Edge Computing Replica Set WebSockets Zero Downtime Deployment
 Dream big and dare to fail. UX Optimization Framework To be the best, you must be able to handle the worst. Zero Downtime Deployment Security DNS Routing Multi-threading Success is how high you bounce when you hit bottom. React NLP Cache Invalidation RabbitMQ
+Lambda Functions Microservices Success is how high you bounce when you hit bottom. WebSockets Testing Machine Learning Scalability GraphQL React Do what you love and the money will follow. The only way to do great work is to love what you do. Distributed Systems
