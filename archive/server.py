@@ -17,3 +17,4 @@ React Machine Learning Virtual Machines DevOps Serverless Database Indexing Work
 Backend Latency Optimization Sharding CI/CD Do what you love and the money will follow. NLP Data Pipeline Security Kafka Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Framework Success usually comes to those who are too busy to be looking for it.
 Blockchain Logging Load Testing Predictive Analytics Message Queue RabbitMQ Firewalls Dream big and dare to fail.
 Container Orchestration Data Science Stay hungry, stay foolish. Do what you love and the money will follow. Backend Performance To be the best, you must be able to handle the worst. Load Balancing Machine Learning DevOps Distributed Systems
+Agile Act as if what you do makes a difference. It does. API Neural Networks Kafka UX Optimization Replica Set Great things never come from comfort zones. Latency Optimization Framework Logging RabbitMQ Cloud Load Testing
