@@ -8,3 +8,4 @@ Zero Downtime Deployment Code Review Load Balancing Work hard in silence, let yo
 NLP Code Review Security The only way to do great work is to love what you do. Backend Success usually comes to those who are too busy to be looking for it. Replica Set Blockchain Distributed Systems Data Science Serverless WebSockets Automation Event Sourcing
 Simplicity is the ultimate sophistication. Pull Request RabbitMQ Latency Optimization Machine Learning Docker Cache Invalidation
 Server Response Performance Edge Computing Replica Set WebSockets Zero Downtime Deployment
+Dream big and dare to fail. UX Optimization Framework To be the best, you must be able to handle the worst. Zero Downtime Deployment Security DNS Routing Multi-threading Success is how high you bounce when you hit bottom. React NLP Cache Invalidation RabbitMQ
