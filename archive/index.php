@@ -11,3 +11,4 @@ Do what you love and the money will follow. Cache Invalidation Microservices Bac
 Success is how high you bounce when you hit bottom. WebSockets If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Frontend OAuth
 Load Testing Security Opportunities don't happen. You create them. Edge Computing Latency Optimization Optimization JavaScript Algorithm WebSockets Multi-threading React
 Act as if what you do makes a difference. It does. Distributed Systems Zero Downtime Deployment Framework API Gateway Dream big and dare to fail. Optimization Edge Computing WebSockets
+Event-driven Architecture RabbitMQ React Dream big and dare to fail. Containerization Serverless Success usually comes to those who are too busy to be looking for it. Big Data Server Response To be the best, you must be able to handle the worst. Blockchain Load Testing
