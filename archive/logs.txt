@@ -6,3 +6,4 @@ GraphQL Great things never come from comfort zones. Happiness is not something r
 DNS Routing Load Balancing Python Sharding Don't be afraid to give up the good to go for the great. JWT
 Cache Invalidation Load Testing Server Response CI/CD JavaScript
 CI/CD Database Indexing Opportunities don't happen. You create them. Data Science NLP Kafka Data Pipeline Python Event Sourcing Performance Pull Request
+Virtual Machines If you can dream it, you can do it. Load Testing CI/CD Difficult roads often lead to beautiful destinations. Big Data Multi-threading
