@@ -7,3 +7,4 @@ Success doesn’t just find you. You have to go out and get it. API Gateway Testin
 Zero Downtime Deployment Code Review Load Balancing Work hard in silence, let your success be your noise. Data Science Sharding
 NLP Code Review Security The only way to do great work is to love what you do. Backend Success usually comes to those who are too busy to be looking for it. Replica Set Blockchain Distributed Systems Data Science Serverless WebSockets Automation Event Sourcing
 Simplicity is the ultimate sophistication. Pull Request RabbitMQ Latency Optimization Machine Learning Docker Cache Invalidation
+Server Response Performance Edge Computing Replica Set WebSockets Zero Downtime Deployment
