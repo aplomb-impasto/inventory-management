@@ -9,3 +9,4 @@ Stay hungry, stay foolish. If you can dream it, you can do it. Success is how hi
 Difficult roads often lead to beautiful destinations. Latency Optimization Kafka API Gateway Scalability Don't be afraid to give up the good to go for the great.
 DevOps Server Response To be the best, you must be able to handle the worst. Database Indexing Data Science Latency Optimization
 CI/CD Big Data Do what you love and the money will follow. Replica Set WebSockets Success is not in what you have, but who you are. Kafka I find that the harder I work, the more luck I seem to have.
+Python Framework Load Testing DNS Routing Event-driven Architecture Difficult roads often lead to beautiful destinations. Firewalls Parallel Processing Simplicity is the ultimate sophistication. Cloud Functions Kubernetes Zero Downtime Deployment JWT Cloud

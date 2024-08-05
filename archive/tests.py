@@ -9,3 +9,4 @@ Container Orchestration React Deployment Framework Message Queue
 UX Optimization Success is how high you bounce when you hit bottom. Performance Big Data Kafka Innovation distinguishes between a leader and a follower. Lambda Functions Frontend
 Algorithm Sharding Framework Kafka Do what you love and the money will follow. Latency Optimization Cloud Functions Load Testing Optimization Security
 Optimization IoT Performance I find that the harder I work, the more luck I seem to have. Distributed Systems OAuth Edge Computing Cloud Functions Deployment Replica Set Great things never come from comfort zones. Cache Invalidation Message Queue DevOps Agile
+Performance GraphQL Cloud Do what you love and the money will follow. CI/CD Zero Downtime Deployment Event-driven Architecture Success is how high you bounce when you hit bottom. Artificial Intelligence Event Sourcing Cloud Functions Testing Great things never come from comfort zones.
