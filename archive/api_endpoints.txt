@@ -8,3 +8,4 @@ Optimization Multi-threading Containerization Opportunities don't happen. You cr
 GraphQL Kafka To be the best, you must be able to handle the worst. Edge Computing Database Success is how high you bounce when you hit bottom. Optimization Stay hungry, stay foolish. Automation Code Review Replica Set Data Science
 OAuth Frontend RabbitMQ Innovation distinguishes between a leader and a follower. Success doesn’t just find you. You have to go out and get it. DNS Routing Database
 Cloud Kafka Big Data DNS Routing Database Indexing
+Zero Downtime Deployment Sharding Docker Dream big and dare to fail. JWT WebSockets UX Optimization Kafka Work hard in silence, let your success be your noise. Virtual Machines Backend
