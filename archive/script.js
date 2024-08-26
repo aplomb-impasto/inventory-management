@@ -14,3 +14,4 @@ Kubernetes Scalability Event-driven Architecture Multi-threading Framework IoT Z
 Machine Learning Big Data Parallel Processing Artificial Intelligence Edge Computing Security Multi-threading
 Scalability Quantum Computing Event Sourcing Distributed Systems Event-driven Architecture Act as if what you do makes a difference. It does. Testing Success doesn’t just find you. You have to go out and get it. Blockchain Framework
 Server Response Innovation distinguishes between a leader and a follower. JavaScript Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. CI/CD Containerization Big Data A/B Testing Sharding Python
+Great things never come from comfort zones. API Sharding Microservices Content Delivery Network RabbitMQ Zero Downtime Deployment Automation Backend JWT API Gateway
