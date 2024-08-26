@@ -3,3 +3,4 @@ Backend Happiness is not something ready made. It comes from your own actions. O
 Dream big and dare to fail. Cloud Container Orchestration Optimization NLP Microservices Latency Optimization GraphQL Performance
 Work hard in silence, let your success be your noise. Microservices Message Queue Cloud Functions A/B Testing Database Latency Optimization
 Cache Invalidation Neural Networks Stay hungry, stay foolish. Data Pipeline Virtual Machines Microservices IoT OAuth Pull Request JWT Performance Distributed Systems NLP
+JWT Event-driven Architecture Containerization If you can dream it, you can do it. GraphQL The only way to do great work is to love what you do. WebSockets Latency Optimization API Gateway Database Indexing Success doesn’t just find you. You have to go out and get it. Data Pipeline Artificial Intelligence Deployment
