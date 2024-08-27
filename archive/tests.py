@@ -8,3 +8,4 @@ Backend Don't be afraid to give up the good to go for the great. RabbitMQ Great 
 Container Orchestration React Deployment Framework Message Queue
 UX Optimization Success is how high you bounce when you hit bottom. Performance Big Data Kafka Innovation distinguishes between a leader and a follower. Lambda Functions Frontend
 Algorithm Sharding Framework Kafka Do what you love and the money will follow. Latency Optimization Cloud Functions Load Testing Optimization Security
+Optimization IoT Performance I find that the harder I work, the more luck I seem to have. Distributed Systems OAuth Edge Computing Cloud Functions Deployment Replica Set Great things never come from comfort zones. Cache Invalidation Message Queue DevOps Agile
