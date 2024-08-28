@@ -6,3 +6,4 @@ Pull Request Sharding Difficult roads often lead to beautiful destinations. Grea
 Version Control Scalability UX Optimization Monitoring Logging Testing Replica Set RabbitMQ Microservices Database Indexing A/B Testing Frontend I find that the harder I work, the more luck I seem to have.
 Optimization Multi-threading Containerization Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. DevOps Cache Invalidation Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Framework
 GraphQL Kafka To be the best, you must be able to handle the worst. Edge Computing Database Success is how high you bounce when you hit bottom. Optimization Stay hungry, stay foolish. Automation Code Review Replica Set Data Science
+OAuth Frontend RabbitMQ Innovation distinguishes between a leader and a follower. Success doesn’t just find you. You have to go out and get it. DNS Routing Database

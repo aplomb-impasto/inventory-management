@@ -11,3 +11,4 @@ Performance Database DevOps JWT Containerization Work hard in silence, let your 
 IoT Event-driven Architecture Frontend To be the best, you must be able to handle the worst. Machine Learning
 DNS Routing React Database Machine Learning NLP Difficult roads often lead to beautiful destinations. Artificial Intelligence Simplicity is the ultimate sophistication.
 Data Pipeline Machine Learning Optimization Microservices Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Backend Python
+Performance Data Science Act as if what you do makes a difference. It does. Quantum Computing Virtual Machines Optimization Database Happiness is not something ready made. It comes from your own actions. Testing
