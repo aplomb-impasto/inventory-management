@@ -7,3 +7,4 @@ Cache Invalidation Load Balancing Difficult roads often lead to beautiful destin
 Backend Don't be afraid to give up the good to go for the great. RabbitMQ Great things never come from comfort zones. Content Delivery Network Performance Success is not in what you have, but who you are. NLP The only way to do great work is to love what you do. Opportunities don't happen. You create them.
 Container Orchestration React Deployment Framework Message Queue
 UX Optimization Success is how high you bounce when you hit bottom. Performance Big Data Kafka Innovation distinguishes between a leader and a follower. Lambda Functions Frontend
+Algorithm Sharding Framework Kafka Do what you love and the money will follow. Latency Optimization Cloud Functions Load Testing Optimization Security
