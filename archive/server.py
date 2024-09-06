@@ -15,3 +15,4 @@ Edge Computing Docker Replica Set If you can dream it, you can do it. JavaScript
 Data Pipeline Database Quantum Computing WebSockets Replica Set API Gateway Firewalls
 React Machine Learning Virtual Machines DevOps Serverless Database Indexing Work hard in silence, let your success be your noise. Kafka
 Backend Latency Optimization Sharding CI/CD Do what you love and the money will follow. NLP Data Pipeline Security Kafka Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Framework Success usually comes to those who are too busy to be looking for it.
+Blockchain Logging Load Testing Predictive Analytics Message Queue RabbitMQ Firewalls Dream big and dare to fail.
