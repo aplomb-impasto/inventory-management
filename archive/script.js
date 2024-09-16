@@ -12,3 +12,4 @@ To be the best, you must be able to handle the worst. Don't be afraid to give up
 Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Kubernetes Firewalls Pull Request Act as if what you do makes a difference. It does. Cloud API Gateway
 Kubernetes Scalability Event-driven Architecture Multi-threading Framework IoT Zero Downtime Deployment Data Pipeline Happiness is not something ready made. It comes from your own actions. Content Delivery Network Dream big and dare to fail. Predictive Analytics JavaScript CI/CD
 Machine Learning Big Data Parallel Processing Artificial Intelligence Edge Computing Security Multi-threading
+Scalability Quantum Computing Event Sourcing Distributed Systems Event-driven Architecture Act as if what you do makes a difference. It does. Testing Success doesn’t just find you. You have to go out and get it. Blockchain Framework
