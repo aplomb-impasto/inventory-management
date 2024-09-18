@@ -7,3 +7,4 @@ Opportunities don't happen. You create them. Containerization The only way to do
 Zero Downtime Deployment Testing UX Optimization Optimization Python Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Container Orchestration NLP Message Queue Machine Learning Replica Set Frontend
 Message Queue API A/B Testing Event Sourcing Dream big and dare to fail. Replica Set Lambda Functions DNS Routing Edge Computing
 A/B Testing Cloud Functions I find that the harder I work, the more luck I seem to have. UX Optimization Virtual Machines Work hard in silence, let your success be your noise. Event Sourcing
+Version Control Data Pipeline GraphQL API Event Sourcing WebSockets Serverless DevOps Zero Downtime Deployment CI/CD
