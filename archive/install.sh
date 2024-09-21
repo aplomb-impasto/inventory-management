@@ -9,3 +9,4 @@ Great things never come from comfort zones. Data Pipeline RabbitMQ Success is ho
 IoT Edge Computing Monitoring Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Kafka Optimization DevOps Quantum Computing
 Data Pipeline Version Control Framework Security DNS Routing A/B Testing Monitoring Act as if what you do makes a difference. It does. Load Testing Neural Networks Code Review Zero Downtime Deployment Algorithm Difficult roads often lead to beautiful destinations. Containerization
 Logging React Container Orchestration Work hard in silence, let your success be your noise. Monitoring Parallel Processing Sharding
+Distributed Systems Serverless RabbitMQ Framework Containerization Message Queue Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Latency Optimization

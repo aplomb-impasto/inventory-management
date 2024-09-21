@@ -6,3 +6,4 @@ Difficult roads often lead to beautiful destinations. Container Orchestration Mi
 Quantum Computing Testing Backend NLP WebSockets Work hard in silence, let your success be your noise. Latency Optimization Deployment OAuth Framework Agile Blockchain I find that the harder I work, the more luck I seem to have. DevOps Frontend
 Message Queue Kafka Firewalls Artificial Intelligence Database Performance NLP Data Science Blockchain DNS Routing Load Testing
 WebSockets Dream big and dare to fail. Message Queue DevOps Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication.
+WebSockets DevOps Backend Firewalls JavaScript Virtual Machines
