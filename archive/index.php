@@ -10,3 +10,4 @@ Load Testing Frontend DNS Routing Great things never come from comfort zones. Bl
 Do what you love and the money will follow. Cache Invalidation Microservices Backend Code Review
 Success is how high you bounce when you hit bottom. WebSockets If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Frontend OAuth
 Load Testing Security Opportunities don't happen. You create them. Edge Computing Latency Optimization Optimization JavaScript Algorithm WebSockets Multi-threading React
+Act as if what you do makes a difference. It does. Distributed Systems Zero Downtime Deployment Framework API Gateway Dream big and dare to fail. Optimization Edge Computing WebSockets
