@@ -13,3 +13,4 @@ Neural Networks WebSockets Microservices IoT Innovation distinguishes between a 
 Optimization Testing Scalability Message Queue JWT
 Edge Computing Docker Replica Set If you can dream it, you can do it. JavaScript Latency Optimization
 Data Pipeline Database Quantum Computing WebSockets Replica Set API Gateway Firewalls
+React Machine Learning Virtual Machines DevOps Serverless Database Indexing Work hard in silence, let your success be your noise. Kafka
