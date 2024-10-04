@@ -9,3 +9,4 @@ Work hard in silence, let your success be your noise. Python Edge Computing Clou
 Dream big and dare to fail. GraphQL UX Optimization Replica Set API Gateway Success doesn’t just find you. You have to go out and get it. Kubernetes Container Orchestration Frontend Neural Networks Cloud Functions Don't be afraid to give up the good to go for the great. Microservices Parallel Processing Success is how high you bounce when you hit bottom.
 Performance Database DevOps JWT Containerization Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. Load Testing
 IoT Event-driven Architecture Frontend To be the best, you must be able to handle the worst. Machine Learning
+DNS Routing React Database Machine Learning NLP Difficult roads often lead to beautiful destinations. Artificial Intelligence Simplicity is the ultimate sophistication.
