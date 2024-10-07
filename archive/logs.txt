@@ -5,3 +5,4 @@ JavaScript Parallel Processing Do what you love and the money will follow. Repli
 GraphQL Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Frontend Latency Optimization Logging Quantum Computing Serverless
 DNS Routing Load Balancing Python Sharding Don't be afraid to give up the good to go for the great. JWT
 Cache Invalidation Load Testing Server Response CI/CD JavaScript
+CI/CD Database Indexing Opportunities don't happen. You create them. Data Science NLP Kafka Data Pipeline Python Event Sourcing Performance Pull Request
