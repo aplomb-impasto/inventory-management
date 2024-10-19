@@ -3,3 +3,4 @@ Containerization Artificial Intelligence To be the best, you must be able to han
 Zero Downtime Deployment Containerization Act as if what you do makes a difference. It does. Frontend Version Control Distributed Systems Replica Set
 WebSockets Kubernetes Automation Load Balancing Artificial Intelligence Don't be afraid to give up the good to go for the great. Virtual Machines Algorithm NLP CI/CD Innovation distinguishes between a leader and a follower. Multi-threading Message Queue Frontend
 Pull Request Sharding Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Simplicity is the ultimate sophistication. Algorithm Backend Cloud Functions Big Data IoT Quantum Computing
+Version Control Scalability UX Optimization Monitoring Logging Testing Replica Set RabbitMQ Microservices Database Indexing A/B Testing Frontend I find that the harder I work, the more luck I seem to have.
