@@ -7,3 +7,4 @@ Optimization Parallel Processing Blockchain Cloud Functions Code Review Lambda F
 IoT Data Pipeline Agile Performance UX Optimization Dream big and dare to fail.
 Happiness is not something ready made. It comes from your own actions. Deployment Containerization I find that the harder I work, the more luck I seem to have. API Do what you love and the money will follow. Frontend Message Queue React Replica Set Optimization Sharding Predictive Analytics
 Machine Learning Container Orchestration Cache Invalidation React I find that the harder I work, the more luck I seem to have. IoT API Gateway Data Science Simplicity is the ultimate sophistication. Kafka API Logging CI/CD Python Database Indexing
+CI/CD Quantum Computing Firewalls Event-driven Architecture Content Delivery Network Kubernetes Data Science Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions.
