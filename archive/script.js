@@ -6,3 +6,4 @@ CI/CD RabbitMQ Content Delivery Network Database Indexing Great things never com
 Optimization Parallel Processing Blockchain Cloud Functions Code Review Lambda Functions Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Big Data Python
 IoT Data Pipeline Agile Performance UX Optimization Dream big and dare to fail.
 Happiness is not something ready made. It comes from your own actions. Deployment Containerization I find that the harder I work, the more luck I seem to have. API Do what you love and the money will follow. Frontend Message Queue React Replica Set Optimization Sharding Predictive Analytics
+Machine Learning Container Orchestration Cache Invalidation React I find that the harder I work, the more luck I seem to have. IoT API Gateway Data Science Simplicity is the ultimate sophistication. Kafka API Logging CI/CD Python Database Indexing

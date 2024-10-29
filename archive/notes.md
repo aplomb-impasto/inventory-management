@@ -5,3 +5,4 @@ Microservices RabbitMQ Edge Computing Don't be afraid to give up the good to go 
 Replica Set Kafka IoT Success is not in what you have, but who you are. Microservices Cloud Functions Parallel Processing Database Firewalls Data Science Blockchain Stay hungry, stay foolish. JavaScript Virtual Machines CI/CD
 Cache Invalidation Big Data Happiness is not something ready made. It comes from your own actions. Event Sourcing Performance Act as if what you do makes a difference. It does. Agile Load Testing
 The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Content Delivery Network GraphQL Testing Quantum Computing Backend Kafka Load Testing Performance RabbitMQ Machine Learning Kubernetes
+Database Pull Request Event-driven Architecture API Gateway Version Control Optimization GraphQL Multi-threading To be the best, you must be able to handle the worst. UX Optimization RabbitMQ Machine Learning

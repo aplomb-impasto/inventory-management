@@ -8,3 +8,4 @@ Event-driven Architecture Load Balancing Python Firewalls Agile Data Science Sec
 Happiness is not something ready made. It comes from your own actions. Data Science Database Indexing Server Response The only way to do great work is to love what you do. Latency Optimization Success is not in what you have, but who you are. Scalability Containerization
 Load Testing Frontend DNS Routing Great things never come from comfort zones. Blockchain Multi-threading Database Quantum Computing Stay hungry, stay foolish. Artificial Intelligence Testing
 Do what you love and the money will follow. Cache Invalidation Microservices Backend Code Review
+Success is how high you bounce when you hit bottom. WebSockets If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Frontend OAuth
