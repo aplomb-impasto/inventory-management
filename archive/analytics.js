@@ -1,3 +1,4 @@
 Machine Learning Big Data Cache Invalidation Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Multi-threading Deployment
 DNS Routing Optimization Zero Downtime Deployment Testing Replica Set Performance Frontend A/B Testing Quantum Computing Pull Request Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Sharding
 Parallel Processing Kafka Latency Optimization UX Optimization Database Performance Framework Multi-threading To be the best, you must be able to handle the worst. DNS Routing Lambda Functions
+API Kafka Agile If you can dream it, you can do it. Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. JavaScript Success is not in what you have, but who you are. Cloud Functions Virtual Machines
