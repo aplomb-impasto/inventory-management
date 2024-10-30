@@ -2,3 +2,4 @@ Cloud Functions Event-driven Architecture Scalability Database Indexing Docker F
 Content Delivery Network Logging Distributed Systems Zero Downtime Deployment Microservices Performance IoT OAuth
 Load Balancing Zero Downtime Deployment DNS Routing Backend Dream big and dare to fail. NLP Act as if what you do makes a difference. It does. Content Delivery Network Optimization Replica Set Security
 JavaScript Parallel Processing Do what you love and the money will follow. Replica Set Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Serverless GraphQL A/B Testing Automation Neural Networks Load Balancing Database
+GraphQL Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Frontend Latency Optimization Logging Quantum Computing Serverless

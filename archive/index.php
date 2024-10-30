@@ -7,3 +7,4 @@ Python Agile Containerization Cloud Functions Success is how high you bounce whe
 Event-driven Architecture Load Balancing Python Firewalls Agile Data Science Security Quantum Computing Containerization Database Predictive Analytics I find that the harder I work, the more luck I seem to have. Performance Algorithm
 Happiness is not something ready made. It comes from your own actions. Data Science Database Indexing Server Response The only way to do great work is to love what you do. Latency Optimization Success is not in what you have, but who you are. Scalability Containerization
 Load Testing Frontend DNS Routing Great things never come from comfort zones. Blockchain Multi-threading Database Quantum Computing Stay hungry, stay foolish. Artificial Intelligence Testing
+Do what you love and the money will follow. Cache Invalidation Microservices Backend Code Review
