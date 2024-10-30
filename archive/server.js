@@ -7,3 +7,4 @@ Backend Automation Stay hungry, stay foolish. Success usually comes to those who
 Success doesn’t just find you. You have to go out and get it. Database Kafka Python Microservices Database Indexing API Gateway Stay hungry, stay foolish.
 RabbitMQ Data Science IoT DNS Routing Zero Downtime Deployment Docker Data Pipeline The only way to do great work is to love what you do.
 React Database Indexing Cloud Functions Firewalls Load Testing
+Logging Act as if what you do makes a difference. It does. Kubernetes WebSockets DevOps I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Optimization Distributed Systems Happiness is not something ready made. It comes from your own actions.
