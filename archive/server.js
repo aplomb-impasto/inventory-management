@@ -5,3 +5,4 @@ Don't be afraid to give up the good to go for the great. Virtual Machines Conten
 Neural Networks Sharding Success doesn’t just find you. You have to go out and get it. GraphQL Act as if what you do makes a difference. It does.
 Backend Automation Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. IoT If you can dream it, you can do it. RabbitMQ Success is how high you bounce when you hit bottom.
 Success doesn’t just find you. You have to go out and get it. Database Kafka Python Microservices Database Indexing API Gateway Stay hungry, stay foolish.
+RabbitMQ Data Science IoT DNS Routing Zero Downtime Deployment Docker Data Pipeline The only way to do great work is to love what you do.
