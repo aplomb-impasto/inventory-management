@@ -6,3 +6,4 @@ OAuth Backend WebSockets Monitoring DevOps Load Testing Performance JavaScript I
 Logging Machine Learning WebSockets Agile Container Orchestration Python Optimization Firewalls Kubernetes JavaScript
 Simplicity is the ultimate sophistication. Artificial Intelligence Distributed Systems Act as if what you do makes a difference. It does. Happiness is not something ready made. It comes from your own actions. Edge Computing Backend
 Great things never come from comfort zones. Data Pipeline RabbitMQ Success is how high you bounce when you hit bottom. Message Queue JWT WebSockets Monitoring Big Data Kubernetes Container Orchestration Happiness is not something ready made. It comes from your own actions. DNS Routing React Artificial Intelligence
+IoT Edge Computing Monitoring Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Kafka Optimization DevOps Quantum Computing
