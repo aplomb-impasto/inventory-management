@@ -8,3 +8,4 @@ RabbitMQ Neural Networks I find that the harder I work, the more luck I seem to 
 Python Load Testing Neural Networks Firewalls Database Indexing Stay hungry, stay foolish. Kafka Testing Performance DevOps Algorithm Kubernetes NLP Don't be afraid to give up the good to go for the great.
 Sharding Data Pipeline OAuth Quantum Computing Work hard in silence, let your success be your noise. Containerization Automation Microservices Success is not in what you have, but who you are. Blockchain Simplicity is the ultimate sophistication. Dream big and dare to fail.
 React Event Sourcing JavaScript Do what you love and the money will follow. Container Orchestration
+Cache Invalidation Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. Serverless Predictive Analytics Stay hungry, stay foolish. Neural Networks To be the best, you must be able to handle the worst.
