@@ -5,3 +5,4 @@ Load Balancing NLP Success doesn’t just find you. You have to go out and get it.
 Data Science Performance JavaScript Zero Downtime Deployment Success is not in what you have, but who you are. Event Sourcing
 Do what you love and the money will follow. Monitoring Stay hungry, stay foolish. IoT Algorithm JWT Don't be afraid to give up the good to go for the great.
 The only way to do great work is to love what you do. Big Data NLP Pull Request If you can dream it, you can do it. Frontend Algorithm GraphQL Predictive Analytics Server Response Virtual Machines Database Code Review Automation
+Frontend Data Pipeline WebSockets Logging Machine Learning Parallel Processing Algorithm Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Serverless RabbitMQ Automation Zero Downtime Deployment Big Data
