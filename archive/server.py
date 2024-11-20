@@ -9,3 +9,4 @@ Happiness is not something ready made. It comes from your own actions. Firewalls
 UX Optimization Database Indexing The only way to do great work is to love what you do. Message Queue Framework Act as if what you do makes a difference. It does. Predictive Analytics I find that the harder I work, the more luck I seem to have. Virtual Machines Content Delivery Network
 Multi-threading Parallel Processing Message Queue GraphQL JWT Load Balancing Cloud Functions Security Agile Performance Database Indexing Cloud
 Pull Request Neural Networks Act as if what you do makes a difference. It does. Testing Cache Invalidation Container Orchestration Database Indexing Code Review Deployment Kafka Sharding Stay hungry, stay foolish. NLP
+Neural Networks WebSockets Microservices IoT Innovation distinguishes between a leader and a follower. Scalability RabbitMQ
