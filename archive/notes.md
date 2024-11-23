@@ -3,3 +3,4 @@ Container Orchestration Do what you love and the money will follow. Backend Simp
 Deployment Backend Data Science Optimization Great things never come from comfort zones. Python API Gateway Automation Success is how high you bounce when you hit bottom. Message Queue RabbitMQ
 Microservices RabbitMQ Edge Computing Don't be afraid to give up the good to go for the great. GraphQL Difficult roads often lead to beautiful destinations. Backend DevOps Kafka Simplicity is the ultimate sophistication. Multi-threading Security Replica Set
 Replica Set Kafka IoT Success is not in what you have, but who you are. Microservices Cloud Functions Parallel Processing Database Firewalls Data Science Blockchain Stay hungry, stay foolish. JavaScript Virtual Machines CI/CD
+Cache Invalidation Big Data Happiness is not something ready made. It comes from your own actions. Event Sourcing Performance Act as if what you do makes a difference. It does. Agile Load Testing
