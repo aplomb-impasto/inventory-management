@@ -5,3 +5,4 @@ Success is how high you bounce when you hit bottom. Distributed Systems Testing 
 CI/CD RabbitMQ Content Delivery Network Database Indexing Great things never come from comfort zones. Container Orchestration Do what you love and the money will follow. Logging WebSockets UX Optimization
 Optimization Parallel Processing Blockchain Cloud Functions Code Review Lambda Functions Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Big Data Python
 IoT Data Pipeline Agile Performance UX Optimization Dream big and dare to fail.
+Happiness is not something ready made. It comes from your own actions. Deployment Containerization I find that the harder I work, the more luck I seem to have. API Do what you love and the money will follow. Frontend Message Queue React Replica Set Optimization Sharding Predictive Analytics
