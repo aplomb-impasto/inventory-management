@@ -3,3 +3,4 @@ Firewalls Opportunities don't happen. You create them. Edge Computing Replica Se
 NLP Success usually comes to those who are too busy to be looking for it. Big Data Server Response A/B Testing DevOps Neural Networks Sharding Logging
 NLP Cache Invalidation Big Data Do what you love and the money will follow. DNS Routing CI/CD
 GraphQL Do what you love and the money will follow. Event-driven Architecture Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. CI/CD Scalability API
+Cache Invalidation Load Balancing Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. Artificial Intelligence Stay hungry, stay foolish. Load Testing Do what you love and the money will follow. Distributed Systems Database
