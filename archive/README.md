@@ -5,3 +5,4 @@ Multi-threading GraphQL Dream big and dare to fail. Distributed Systems React We
 Work hard in silence, let your success be your noise. Optimization Virtual Machines Backend Cloud Functions Do what you love and the money will follow. Data Science Artificial Intelligence Load Testing
 Event-driven Architecture Deployment Latency Optimization Data Pipeline Content Delivery Network DNS Routing Framework I find that the harder I work, the more luck I seem to have. Frontend
 Event Sourcing JavaScript UX Optimization Distributed Systems Success usually comes to those who are too busy to be looking for it. DNS Routing Data Science Quantum Computing
+Work hard in silence, let your success be your noise. Python Edge Computing Cloud Algorithm Stay hungry, stay foolish. Artificial Intelligence Monitoring Load Testing Scalability Happiness is not something ready made. It comes from your own actions. Data Pipeline Success is not in what you have, but who you are.
