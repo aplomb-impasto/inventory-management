@@ -3,3 +3,4 @@ Distributed Systems Success is how high you bounce when you hit bottom. Neural N
 Event Sourcing Lambda Functions Parallel Processing Kubernetes Cloud Functions Monitoring Load Testing Distributed Systems Code Review Virtual Machines
 Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Performance If you can dream it, you can do it. DNS Routing Event-driven Architecture I find that the harder I work, the more luck I seem to have. JavaScript Code Review Edge Computing
 Lambda Functions Data Science CI/CD Big Data DNS Routing Distributed Systems Zero Downtime Deployment Blockchain JavaScript Optimization Virtual Machines NLP
+Python Agile Containerization Cloud Functions Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Load Balancing Serverless Latency Optimization Event-driven Architecture Framework Firewalls
