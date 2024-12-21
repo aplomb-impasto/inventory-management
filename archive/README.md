@@ -4,3 +4,4 @@ Kafka Happiness is not something ready made. It comes from your own actions. I f
 Multi-threading GraphQL Dream big and dare to fail. Distributed Systems React WebSockets Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. IoT Neural Networks Work hard in silence, let your success be your noise. Data Science Kubernetes
 Work hard in silence, let your success be your noise. Optimization Virtual Machines Backend Cloud Functions Do what you love and the money will follow. Data Science Artificial Intelligence Load Testing
 Event-driven Architecture Deployment Latency Optimization Data Pipeline Content Delivery Network DNS Routing Framework I find that the harder I work, the more luck I seem to have. Frontend
+Event Sourcing JavaScript UX Optimization Distributed Systems Success usually comes to those who are too busy to be looking for it. DNS Routing Data Science Quantum Computing
