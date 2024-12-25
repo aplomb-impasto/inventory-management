@@ -1,1 +1,2 @@
 Zero Downtime Deployment Python Logging Cache Invalidation Load Balancing Monitoring Success doesn’t just find you. You have to go out and get it. CI/CD Scalability Kubernetes Multi-threading Artificial Intelligence If you can dream it, you can do it.
+Lambda Functions Scalability Server Response Performance API Gateway Quantum Computing Success is not in what you have, but who you are. Cloud Functions Docker Happiness is not something ready made. It comes from your own actions.
