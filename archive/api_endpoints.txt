@@ -1,3 +1,4 @@
 Replica Set GraphQL UX Optimization DevOps Multi-threading Act as if what you do makes a difference. It does. Edge Computing
 Containerization Artificial Intelligence To be the best, you must be able to handle the worst. If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Replica Set Success is how high you bounce when you hit bottom. Neural Networks Cache Invalidation IoT Security Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Event Sourcing
 Zero Downtime Deployment Containerization Act as if what you do makes a difference. It does. Frontend Version Control Distributed Systems Replica Set
+WebSockets Kubernetes Automation Load Balancing Artificial Intelligence Don't be afraid to give up the good to go for the great. Virtual Machines Algorithm NLP CI/CD Innovation distinguishes between a leader and a follower. Multi-threading Message Queue Frontend
