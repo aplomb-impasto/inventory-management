@@ -1,3 +1,4 @@
 Data Science OAuth Lambda Functions Load Testing Multi-threading Difficult roads often lead to beautiful destinations. Predictive Analytics Great things never come from comfort zones. Data Pipeline Algorithm Framework
 Docker Kubernetes Event Sourcing Parallel Processing WebSockets Database React Serverless Kafka
 Kafka Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. Message Queue Performance Success is not in what you have, but who you are. CI/CD Kubernetes Multi-threading Neural Networks Python Microservices Virtual Machines Simplicity is the ultimate sophistication. Data Pipeline
+Multi-threading GraphQL Dream big and dare to fail. Distributed Systems React WebSockets Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. IoT Neural Networks Work hard in silence, let your success be your noise. Data Science Kubernetes
