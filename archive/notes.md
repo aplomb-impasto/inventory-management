@@ -1,1 +1,2 @@
 Containerization Agile Version Control Scalability Code Review Blockchain Firewalls Edge Computing Don't be afraid to give up the good to go for the great.
+Container Orchestration Do what you love and the money will follow. Backend Simplicity is the ultimate sophistication. Replica Set Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. Version Control NLP Opportunities don't happen. You create them. UX Optimization

@@ -1,1 +1,2 @@
 Cloud Functions Event-driven Architecture Scalability Database Indexing Docker Framework Quantum Computing Multi-threading Predictive Analytics WebSockets API Gateway Neural Networks GraphQL
+Content Delivery Network Logging Distributed Systems Zero Downtime Deployment Microservices Performance IoT OAuth
